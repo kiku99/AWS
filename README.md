@@ -1,4 +1,4 @@
-# Road To AWS Solution Architecture
+# Road To AWS Solution Architect
 
 SA준비하기
 
