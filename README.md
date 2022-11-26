@@ -27,4 +27,4 @@ SA준비하기
 - [https://github.com/kiku99/Cloud/blob/master/SpringBoot/03.Spring%20Boot%20CRUD.pdf)
 
 ### etc
-- [jbnu-se-voting]()
+- [jbnu-se-voting](https://github.com/kiku99/Cloud/blob/master/etc/jbnu-se-voting.pdf)
