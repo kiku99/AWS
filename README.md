@@ -25,6 +25,7 @@ SA준비하기
 - [Spring Boot Application](https://github.com/kiku99/Cloud/blob/master/SpringBoot/01.Spring%20Boot%20Application.pdf)
 - [Spring Boot Architecture](https://github.com/kiku99/Cloud/blob/master/SpringBoot/02.Spring%20Boot%20Architecture.pdf)
 - [Spring Boot CRUD](https://github.com/kiku99/Cloud/blob/master/SpringBoot/03.Spring%20Boot%20CRUD.pdf)
+- [Spring Boot Business Logic](https://github.com/kiku99/Cloud/blob/master/SpringBoot/04.Spring%20Boot%20Business%20Logic.pdf)
 
 ### etc
 - [jbnu-se-voting](https://github.com/kiku99/Cloud/blob/master/etc/jbnu-se-voting.pdf)
