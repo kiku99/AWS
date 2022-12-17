@@ -19,6 +19,7 @@ SA준비하기
 - [AWS Security](https://github.com/kiku99/Cloud/blob/master/AWS/04.AWS%20Security.pdf)
 - [AWS Container Service](https://github.com/kiku99/Cloud/blob/master/AWS/05.AWS%20Container%20Service.pdf)
 - [AWS Serverless Computing](https://github.com/kiku99/Cloud/blob/master/AWS/06.AWS%20Serverless%20Computing.pdf)
+- [AWS EC2 Web Service](https://github.com/kiku99/Cloud/blob/master/AWS/07.%20AWS%20EC2%20web%20service.pdf)
 
 ### Spring Boot
 - [Spring Boot](https://github.com/kiku99/Cloud/blob/master/SpringBoot/00.Spring%20Boot.pdf)
