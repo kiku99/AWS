@@ -19,12 +19,14 @@ SA준비하기
 - [AWS Security](https://github.com/kiku99/Cloud/blob/master/AWS/04.AWS%20Security.pdf)
 - [AWS Container Service](https://github.com/kiku99/Cloud/blob/master/AWS/05.AWS%20Container%20Service.pdf)
 - [AWS Serverless Computing](https://github.com/kiku99/Cloud/blob/master/AWS/06.AWS%20Serverless%20Computing.pdf)
+- [AWS EC2 Exercise : Web Service](https://github.com/kiku99/Cloud/blob/master/AWS/07.%20AWS%20EC2%20web%20service.pdf)
 
 ### Spring Boot
 - [Spring Boot](https://github.com/kiku99/Cloud/blob/master/SpringBoot/00.Spring%20Boot.pdf)
 - [Spring Boot Application](https://github.com/kiku99/Cloud/blob/master/SpringBoot/01.Spring%20Boot%20Application.pdf)
 - [Spring Boot Architecture](https://github.com/kiku99/Cloud/blob/master/SpringBoot/02.Spring%20Boot%20Architecture.pdf)
 - [Spring Boot CRUD](https://github.com/kiku99/Cloud/blob/master/SpringBoot/03.Spring%20Boot%20CRUD.pdf)
+- [Spring Boot Business Logic](https://github.com/kiku99/Cloud/blob/master/SpringBoot/04.Spring%20Boot%20Business%20Logic.pdf)
 
 ### etc
 - [jbnu-se-voting](https://github.com/kiku99/Cloud/blob/master/etc/jbnu-se-voting.pdf)
