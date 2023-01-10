@@ -25,7 +25,7 @@ SA준비하기
 ### Network
 - [Network Overview](https://github.com/kiku99/Cloud/blob/master/Network/00.%20Network%20Overview.pdf)
 - [Network Protocol](https://github.com/kiku99/Cloud/blob/master/Network/01.%20Network%20Protocol.pdf)
-- [Network Wide Area Network]()
+- [Network Wide Area Network](https://github.com/kiku99/Cloud/blob/master/Network/02.%20Network%20Wide%20Area%20Network.pdf)
 
 ### Spring Boot
 - [Spring Boot](https://github.com/kiku99/Cloud/blob/master/SpringBoot/00.Spring%20Boot.pdf)
