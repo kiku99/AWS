@@ -20,7 +20,7 @@ SA준비하기
 - [AWS Container Service](https://github.com/kiku99/Cloud/blob/master/AWS/05.AWS%20Container%20Service.pdf)
 - [AWS Serverless Computing](https://github.com/kiku99/Cloud/blob/master/AWS/06.AWS%20Serverless%20Computing.pdf)
 - [AWS EC2 Exercise : Web Service](https://github.com/kiku99/Cloud/blob/master/AWS/07.%20AWS%20EC2%20web%20service.pdf)
-- [AWS Event Driven Architecture]()
+- [AWS Event Driven Architecture](https://github.com/kiku99/Cloud/blob/master/AWS/08.%20AWS%20Event%20Driven%20Architecture.pdf)
 
 ### Network
 - [Network Overview](https://github.com/kiku99/Cloud/blob/master/Network/00.%20Network%20Overview.pdf)
