@@ -7,7 +7,7 @@ SA준비하기
 [<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">](https://workable-utahraptor-547.notion.site/1a35d22aa1b647be879876e7beafc84f?v=3d5a756dc2a64b108471d47b2e057fd6)
 
 
-## 세미나 발표자료
+## Lab 세미나 발표자료
 
 - [what is cloud computing](https://github.com/kiku99/Cloud/blob/master/Linux/01_What%20is%20Cloud%20Computing.pdf)
 
