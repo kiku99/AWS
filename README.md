@@ -2,7 +2,12 @@
 
 SA준비하기
 
-## 세미나 발표자료
+## AWS 서비스 정리 위키
+
+[<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">](https://workable-utahraptor-547.notion.site/1a35d22aa1b647be879876e7beafc84f?v=3d5a756dc2a64b108471d47b2e057fd6)
+
+
+## Lab 세미나 발표자료
 
 - [what is cloud computing](https://github.com/kiku99/Cloud/blob/master/Linux/01_What%20is%20Cloud%20Computing.pdf)
 
@@ -26,6 +31,7 @@ SA준비하기
 - [Network Overview](https://github.com/kiku99/Cloud/blob/master/Network/00.%20Network%20Overview.pdf)
 - [Network Protocol](https://github.com/kiku99/Cloud/blob/master/Network/01.%20Network%20Protocol.pdf)
 - [Network Wide Area Network](https://github.com/kiku99/Cloud/blob/master/Network/02.%20Network%20Wide%20Area%20Network.pdf)
+- [Network Cellular](https://github.com/kiku99/Cloud/blob/master/Network/03.%20Network%20Cellular.pdf)
 
 ### Spring Boot
 - [Spring Boot](https://github.com/kiku99/Cloud/blob/master/SpringBoot/00.Spring%20Boot.pdf)
