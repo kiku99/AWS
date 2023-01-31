@@ -33,6 +33,7 @@ SA준비하기
 - [Network Wide Area Network](https://github.com/kiku99/Cloud/blob/master/Network/02.%20Network%20Wide%20Area%20Network.pdf)
 - [Network Cellular](https://github.com/kiku99/Cloud/blob/master/Network/03.%20Network%20Cellular.pdf)
 - [Network Internet Protocol (1)](https://github.com/kiku99/Cloud/blob/master/Network/04.%20Network%20Internet%20Protocol%20(1).pdf)
+- [Network Internet Protocol (2)](https://github.com/kiku99/Cloud/blob/master/Network/05.%20Network%20Internet%20Protocol%20(2).pdf)
 
 ### Spring Boot
 - [Spring Boot](https://github.com/kiku99/Cloud/blob/master/SpringBoot/00.Spring%20Boot.pdf)
