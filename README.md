@@ -2,7 +2,7 @@
 
 ## AWS 서비스 정리 위키
 
-[<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">]https://workable-utahraptor-547.notion.site/1a35d22aa1b647be879876e7beafc84f?v=3d5a756dc2a64b108471d47b2e057fd6)
+[<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">](https://workable-utahraptor-547.notion.site/1a35d22aa1b647be879876e7beafc84f?v=3d5a756dc2a64b108471d47b2e057fd6)
 
 ## AWS 클라우드의 이점
 
