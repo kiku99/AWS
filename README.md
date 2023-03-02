@@ -59,5 +59,8 @@ AWS 클라우드는 글로벌 입지를 확보하고 있어 전 세계 고객에
 - [Spring Boot CRUD](https://github.com/kiku99/Cloud/blob/master/SpringBoot/03.Spring%20Boot%20CRUD.pdf)
 - [Spring Boot Business Logic](https://github.com/kiku99/Cloud/blob/master/SpringBoot/04.Spring%20Boot%20Business%20Logic.pdf)
 
+### Testing (Research)
+- [Integration Testing in MVC](https://github.com/kiku99/Cloud/blob/master/Testing/00.%20Integration%20Testing.pdf)
+
 ### etc
 - [jbnu-se-voting](https://github.com/kiku99/Cloud/blob/master/etc/jbnu-se-voting.pdf)
