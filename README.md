@@ -62,6 +62,7 @@ AWS 클라우드는 글로벌 입지를 확보하고 있어 전 세계 고객에
 
 ### Testing (Research)
 - [Integration Testing in MVC](https://github.com/kiku99/Cloud/blob/master/Testing/00.%20Integration%20Testing.pdf)
+- [Integration Testing in Spring Boot](https://github.com/kiku99/Cloud/blob/master/Testing/01.%20Integration%20Testing%20in%20Spring%20Boot.pdf)
 
 ### etc
 - [jbnu-se-voting](https://github.com/kiku99/Cloud/blob/master/etc/jbnu-se-voting.pdf)
