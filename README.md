@@ -52,7 +52,7 @@ AWS 클라우드는 글로벌 입지를 확보하고 있어 전 세계 고객에
 - [Network Internet Protocol (1)](https://github.com/kiku99/Cloud/blob/master/Network/04.%20Network%20Internet%20Protocol%20(1).pdf)
 - [Network Internet Protocol (2)](https://github.com/kiku99/Cloud/blob/master/Network/05.%20Network%20Internet%20Protocol%20(2).pdf)
 - [Network Transport Protocols (1)](https://github.com/kiku99/AWS/blob/master/Network/06.%20Network%20Transport%20Protocols%20(1).pdf)
-- [Network Transport Protocols (2)]()
+- [Network Transport Protocols (2)](https://github.com/kiku99/AWS/blob/master/Network/07.%20Network%20Transport%20Protocols%20(2).pdf)
 
 ### Spring Boot
 - [Spring Boot](https://github.com/kiku99/Cloud/blob/master/SpringBoot/00.Spring%20Boot.pdf)
