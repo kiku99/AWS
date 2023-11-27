@@ -54,8 +54,16 @@ AWS 클라우드는 글로벌 입지를 확보하고 있어 전 세계 고객에
 - [Network Internet Protocol (2)](https://github.com/kiku99/Cloud/blob/master/Network/05.%20Network%20Internet%20Protocol%20(2).pdf)
 - [Network Transport Protocols (1)](https://github.com/kiku99/AWS/blob/master/Network/06.%20Network%20Transport%20Protocols%20(1).pdf)
 - [Network Transport Protocols (2)](https://github.com/kiku99/AWS/blob/master/Network/07.%20Network%20Transport%20Protocols%20(2).pdf)
-- [Internetworking](https://github.com/kiku99/AWS/blob/master/Network/08.%20Internetworking.pdf)
-- [Routing Algorithm](https://github.com/kiku99/AWS/blob/master/Network/09.%20Routing%20Algorithm.pdf)
+- [Network Internetworking](https://github.com/kiku99/AWS/blob/master/Network/08.%20Network%20Internetworking.pdf)
+- [Network Routing Algorithm](https://github.com/kiku99/AWS/blob/master/Network/09.%20Network%20Routing%20Algorithm.pdf)
+- [Network Congestion Control](https://github.com/kiku99/AWS/blob/master/Network/10.%20Network%20Congestion%20Control.pdf)
+
+### Big Data & AI
+- [Scalable Data Processing : By applying MapReduce in Spark](https://github.com/kiku99/AWS/blob/master/Big%20Data%20%26%20AI/Research%20Presentation%20%5Bfinal%20Presentation%5D.pdf)
+
+### Infrastructure
+- [gRPC(1)](https://github.com/kiku99/AWS/blob/master/Infrastructure/01.%20gRPC%20(1).pdf)
+- [CI/CD Pipeline : GitHub Actions](https://github.com/kiku99/AWS/blob/master/Infrastructure/CICD%20Pipeline.pdf)
 
 ### Spring Boot
 - [Spring Boot](https://github.com/kiku99/Cloud/blob/master/SpringBoot/00.Spring%20Boot.pdf)
