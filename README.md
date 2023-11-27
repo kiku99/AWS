@@ -43,6 +43,7 @@ AWS 클라우드는 글로벌 입지를 확보하고 있어 전 세계 고객에
 - [AWS Serverless Computing](https://github.com/kiku99/Cloud/blob/master/AWS/06.AWS%20Serverless%20Computing.pdf)
 - [AWS EC2 Exercise : Web Service](https://github.com/kiku99/Cloud/blob/master/AWS/07.%20AWS%20EC2%20web%20service.pdf)
 - [AWS Event Driven Architecture](https://github.com/kiku99/Cloud/blob/master/AWS/08.%20AWS%20Event%20Driven%20Architecture.pdf)
+- [AWS Migration 7R](https://github.com/kiku99/AWS/blob/master/AWS/09.%20AWS%20Migration_7R.pdf)
 
 ### Network
 - [Network Overview](https://github.com/kiku99/Cloud/blob/master/Network/00.%20Network%20Overview.pdf)
@@ -53,6 +54,8 @@ AWS 클라우드는 글로벌 입지를 확보하고 있어 전 세계 고객에
 - [Network Internet Protocol (2)](https://github.com/kiku99/Cloud/blob/master/Network/05.%20Network%20Internet%20Protocol%20(2).pdf)
 - [Network Transport Protocols (1)](https://github.com/kiku99/AWS/blob/master/Network/06.%20Network%20Transport%20Protocols%20(1).pdf)
 - [Network Transport Protocols (2)](https://github.com/kiku99/AWS/blob/master/Network/07.%20Network%20Transport%20Protocols%20(2).pdf)
+- [Internetworking](https://github.com/kiku99/AWS/blob/master/Network/08.%20Internetworking.pdf)
+- [Routing Algorithm](https://github.com/kiku99/AWS/blob/master/Network/09.%20Routing%20Algorithm.pdf)
 
 ### Spring Boot
 - [Spring Boot](https://github.com/kiku99/Cloud/blob/master/SpringBoot/00.Spring%20Boot.pdf)
