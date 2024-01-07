@@ -58,6 +58,7 @@ AWS 클라우드는 글로벌 입지를 확보하고 있어 전 세계 고객에
 - [Network Routing Algorithm](https://github.com/kiku99/AWS/blob/master/Network/09.%20Network%20Routing%20Algorithm.pdf)
 - [Network Congestion Control](https://github.com/kiku99/AWS/blob/master/Network/10.%20Network%20Congestion%20Control.pdf)
 - [Network Internet Operation](https://github.com/kiku99/AWS/blob/master/Network/11.%20Network%20Internet%20Operation.pdf)
+- [Network Internet Application](https://github.com/kiku99/AWS/blob/master/Network/12.%20Network%20Internet%20Application.pdf)
 
 ### Big Data & AI
 - [Scalable Data Processing : By applying MapReduce in Spark](https://github.com/kiku99/AWS/blob/master/Big%20Data%20%26%20AI/Research%20Presentation%20%5Bfinal%20Presentation%5D.pdf)
